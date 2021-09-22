@@ -1,0 +1,53 @@
+body{
+    background-color: lightblue !important;
+}
+
+h1{
+    text-align: center;
+}
+
+div{
+    text-align: center;
+}
+
+.logout{
+    padding-left:40px;
+}
+
+.card{
+    max-width: 300px !important;
+}
+
+.row {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center !important;
+}
+
+tr.stripe-dark.last {
+    border-bottom: 2px solid;
+}
+
+div{
+    text-align: center;
+}
+
+table{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.card-group {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
+
+.mb-3 {
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+a{
+    margin: 5px;
+}

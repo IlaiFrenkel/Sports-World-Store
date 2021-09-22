@@ -1,0 +1,23 @@
+{
+    "users": [
+        {
+            "user": "admin",
+            "pass": "$2a$10$iH0e9YtFDDT9XZvj63GXP.quJph4gTZPJTVZ3r9BgtApSvMiecs9S"
+        }
+    ],
+    "carts": [
+    
+    ],
+    "purchases": [
+       
+    ],
+    "LoginActivity": [
+        
+    ],
+    "contactUs": [
+        {
+            "email": "testEmail@gmail.com",
+            "phone": "1234252"
+        }
+    ]
+}
